@@ -1,0 +1,4 @@
+.env
+.zshrc.local
+ssh/*
+!ssh/config
