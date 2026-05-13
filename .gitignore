@@ -2,3 +2,4 @@
 .zshrc.local
 ssh/*
 !ssh/config
+.DS_Store

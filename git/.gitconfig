@@ -3,7 +3,7 @@
 	name = xkAustin
 [filter "lfs"]
 	process = git-lfs filter-process
-	required = true
+	required = false
 	clean = git-lfs clean -- %f
 	smudge = git-lfs smudge -- %f
 [pull]
